@@ -1,5 +1,10 @@
 
 # 🤖🦁 avAI - Seu Assistente Virtual sobre o Avaí Futebol Clube
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4-orange?logo=scikit-learn)
+![NumPy](https://img.shields.io/badge/Numpy-1.24-blue?logo=numpy)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-1.23-lightgrey?logo=adobe-acrobat-reader)
+![VSCode](https://img.shields.io/badge/Code-VSCode-blue?logo=visualstudiocode)
 
 O **avAI** é um chatbot inteligente desenvolvido com Python, capaz de responder perguntas sobre o Avaí Futebol Clube com base em documentos fornecidos (.pdf e .txt). 
 
@@ -11,16 +16,6 @@ O projeto utiliza técnicas de **Processamento de Linguagem Natural (PLN)** e ve
 
 Este projeto está **em desenvolvimento** e novas funcionalidades estão sendo adicionadas frequentemente!  
 Fique à vontade para explorar, testar e contribuir.
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4-orange?logo=scikit-learn)
-![NumPy](https://img.shields.io/badge/Numpy-1.24-blue?logo=numpy)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-1.23-lightgrey?logo=adobe-acrobat-reader)
-![VSCode](https://img.shields.io/badge/Code-VSCode-blue?logo=visualstudiocode)
 
 ---
 
